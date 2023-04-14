@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**smarani19/smarani19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏢 I'm a BTech student pursuing CSE with specialization in cyber security in VIT Bhopal University. 
+- 🧿 I'm a React Web Developer. 
+- 🔭 I’m currently working on a food delivery react app for UnderBelly. 
+- 🌱 I’m currently learning Full Stack Web Development. 
+- 🎵 Hobbies include singing and listening to music ,astronomy ,dancing and painting.  
+- 📫 How to reach me:
+Email me at
+📧 titlibas.123@gmail.com
+or message me on LinkedIn - 
+🖊 https://www.linkedin.com/in/smarani-basu/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
